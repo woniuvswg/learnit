@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch quick.
 Creating a new branch is quick and simple.
 Add merge.
+Git is a free software.
